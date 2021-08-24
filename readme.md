@@ -37,7 +37,7 @@ Here we use the `print` method to display data in the `console`. `{name}` refere
 if name == "Misha":
   print("Best girl ~ x3")
 elif name == "Melody":
-  print("Busy playing Leauge of Legends)
+  print("Busy playing Leauge of Legends")
 else:
   print("A person who exists")
 ```
